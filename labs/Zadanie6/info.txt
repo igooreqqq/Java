@@ -1,0 +1,12 @@
+Pszczoła 1 Liczba wejść: 1, czas czekania na wejscie 0 ,liczba wyjść 1 ,czas czekania na wyjście 0
+Pszczoła 4 Liczba wejść: 1, czas czekania na wejscie 0 ,liczba wyjść 1 ,czas czekania na wyjście 0
+Pszczoła 3 Liczba wejść: 1, czas czekania na wejscie 162 ,liczba wyjść 1 ,czas czekania na wyjście 0
+Pszczoła 2 Liczba wejść: 1, czas czekania na wejscie 1075 ,liczba wyjść 1 ,czas czekania na wyjście 0
+Pszczoła 3 Liczba wejść: 2, czas czekania na wejscie 81 ,liczba wyjść 2 ,czas czekania na wyjście 0
+Pszczoła 1 Liczba wejść: 2, czas czekania na wejscie 0 ,liczba wyjść 2 ,czas czekania na wyjście 0
+Pszczoła 4 Liczba wejść: 2, czas czekania na wejscie 0 ,liczba wyjść 2 ,czas czekania na wyjście 0
+Pszczoła 2 Liczba wejść: 2, czas czekania na wejscie 537 ,liczba wyjść 2 ,czas czekania na wyjście 0
+Pszczoła 3 Liczba wejść: 3, czas czekania na wejscie 54 ,liczba wyjść 3 ,czas czekania na wyjście 0
+Pszczoła 4 Liczba wejść: 3, czas czekania na wejscie 0 ,liczba wyjść 3 ,czas czekania na wyjście 0
+Pszczoła 1 Liczba wejść: 3, czas czekania na wejscie 0 ,liczba wyjść 3 ,czas czekania na wyjście 0
+Pszczoła 2 Liczba wejść: 3, czas czekania na wejscie 358 ,liczba wyjść 3 ,czas czekania na wyjście 0
